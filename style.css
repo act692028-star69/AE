@@ -1,8 +1,18 @@
+/* Stil global */
 body {
     margin: 0;
-    background: #e0f7ff;
+    padding: 0;
     overflow: hidden;
+    background-color: #87ceeb; /* cer albastru */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
 }
+
 canvas {
+    border: 2px solid #000; /* margine vizibilă pentru canvas */
+    background-color: #a0d8ef; /* albastru deschis pentru “apă” */
     display: block;
 }
