@@ -1,0 +1,1 @@
+Folder pentru sprites si sunete. Vor fi adaugate ulterior.
